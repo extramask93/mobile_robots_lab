@@ -1,0 +1,40 @@
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\bin\Debug\robot_interface.exe
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\bin\Debug\robot_interface.pdb
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Form1.resources
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Properties.Resources.resources
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csproj.GenerateResource.Cache
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\obj\x86\Debug\robot_interface.exe
+c:\users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\obj\x86\Debug\robot_interface.pdb
+C:\Users\jozek\documents\visual studio 2010\Projects\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csprojResolveAssemblyReference.cache
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\obj\x86\Debug\robot_interface.exe
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\obj\x86\Debug\robot_interface.pdb
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\bin\Debug\robot_interface.exe
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\bin\Debug\robot_interface.pdb
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csprojResolveAssemblyReference.cache
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Form1.resources
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Properties.Resources.resources
+C:\Users\moksi_000\Desktop\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csproj.GenerateResource.Cache
+G:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.exe
+G:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.pdb
+G:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csprojResolveAssemblyReference.cache
+G:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Form1.resources
+G:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Properties.Resources.resources
+G:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csproj.GenerateResource.Cache
+G:\efi\robot_interface\robot_interface\bin\Debug\robot_interface.exe
+G:\efi\robot_interface\robot_interface\bin\Debug\robot_interface.pdb
+K:\efi\robot_interface\robot_interface\bin\Debug\robot_interface.exe
+K:\efi\robot_interface\robot_interface\bin\Debug\robot_interface.pdb
+K:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csprojResolveAssemblyReference.cache
+K:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Form1.resources
+K:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Properties.Resources.resources
+K:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csproj.GenerateResource.Cache
+K:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.exe
+K:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.pdb
+E:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.exe
+E:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.pdb
+E:\efi\robot_interface\robot_interface\bin\Debug\robot_interface.exe
+E:\efi\robot_interface\robot_interface\bin\Debug\robot_interface.pdb
+E:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csprojResolveAssemblyReference.cache
+E:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Form1.resources
+E:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.Properties.Resources.resources
+E:\efi\robot_interface\robot_interface\obj\x86\Debug\robot_interface.csproj.GenerateResource.Cache
