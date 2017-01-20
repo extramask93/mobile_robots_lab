@@ -1,0 +1,48 @@
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\bin\Debug\laborki.exe.config
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\bin\Debug\laborki.exe
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\bin\Debug\laborki.pdb
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki.csprojResolveAssemblyReference.cache
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\MainWindow.g.cs
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\App.g.cs
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki_MarkupCompile.cache
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki_MarkupCompile.lref
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\MainWindow.baml
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki.g.resources
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki.Properties.Resources.resources
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki.csproj.GenerateResource.Cache
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki.exe
+c:\users\jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\laborki.pdb
+C:\Users\Jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\Window1.g.cs
+C:\Users\Jozek\documents\visual studio 2017\Projects\laborki\laborki\obj\Debug\Window1.baml
+K:\laborki\bin\Debug\laborki.exe.config
+K:\laborki\bin\Debug\laborki.exe
+K:\laborki\bin\Debug\laborki.pdb
+K:\laborki\obj\Debug\laborki.csprojResolveAssemblyReference.cache
+K:\laborki\obj\Debug\MainWindow.g.cs
+K:\laborki\obj\Debug\Window1.g.cs
+K:\laborki\obj\Debug\App.g.cs
+K:\laborki\obj\Debug\laborki_MarkupCompile.cache
+K:\laborki\obj\Debug\laborki_MarkupCompile.lref
+K:\laborki\obj\Debug\MainWindow.baml
+K:\laborki\obj\Debug\Window1.baml
+K:\laborki\obj\Debug\laborki.g.resources
+K:\laborki\obj\Debug\laborki.Properties.Resources.resources
+K:\laborki\obj\Debug\laborki.csproj.GenerateResource.Cache
+K:\laborki\obj\Debug\laborki.exe
+K:\laborki\obj\Debug\laborki.pdb
+E:\laborki\bin\Debug\laborki.exe.config
+E:\laborki\obj\Debug\laborki.exe
+E:\laborki\obj\Debug\laborki.pdb
+E:\laborki\bin\Debug\laborki.exe
+E:\laborki\bin\Debug\laborki.pdb
+E:\laborki\obj\Debug\laborki.csprojResolveAssemblyReference.cache
+E:\laborki\obj\Debug\MainWindow.g.cs
+E:\laborki\obj\Debug\Window1.g.cs
+E:\laborki\obj\Debug\App.g.cs
+E:\laborki\obj\Debug\laborki_MarkupCompile.cache
+E:\laborki\obj\Debug\laborki_MarkupCompile.lref
+E:\laborki\obj\Debug\MainWindow.baml
+E:\laborki\obj\Debug\Window1.baml
+E:\laborki\obj\Debug\laborki.g.resources
+E:\laborki\obj\Debug\laborki.Properties.Resources.resources
+E:\laborki\obj\Debug\laborki.csproj.GenerateResource.Cache
